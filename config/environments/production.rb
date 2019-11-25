@@ -25,7 +25,7 @@ Rails.application.configure do
       :authentication       => "plain",
       :enable_starttls_auto => true  }
 #  config.action_mailer.default_url_options = { host: host, protocol: 'http' }
-  config.action_mailer.default_url_options = { :host => 'kilentic.herokuapp.com' }
+  config.action_mailer.default_url_options = { :host => 'redmine-kilentic.herokuapp.com' }
 
   config.action_mailer.perform_deliveries = true
   config.action_mailer.raise_delivery_errors = true
