@@ -19,8 +19,12 @@
 /plugins/*
 !/plugins/README
 /public/dispatch.*
+/public/themes/*
 !/public/themes/alternate
 !/public/themes/classic
+!/public/themes/PurpleMine2
+!/public/themes/hardpixel-minelab-4881bb6
+!/public/themes/redmine-basecamp-theme-responsive
 !/public/themes/README
 /tmp/*
 /tmp/cache/*
