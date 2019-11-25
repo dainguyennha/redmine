@@ -20,8 +20,8 @@ Rails.application.configure do
       :address              => "smtp.gmail.com",
       :port                 => 587,
       :domain               => "gmail.com",
-      :user_name            => "dainguyenblabla@gmail.com",
-      :password             => "wzapnbboihekoefq",
+      :user_name            => "kidslearntocode.123@gmail.com",
+      :password             => "rljcywymjaizrsaiii",
       :authentication       => "plain",
       :enable_starttls_auto => true  }
 #  config.action_mailer.default_url_options = { host: host, protocol: 'http' }
