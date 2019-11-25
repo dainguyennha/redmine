@@ -21,7 +21,7 @@ Rails.application.configure do
       :port                 => 587,
       :domain               => "gmail.com",
       :user_name            => "kidslearntocode.123@gmail.com",
-      :password             => "rljcywymjaizrsaiii",
+      :password             => "rljcywymjaizrsai",
       :authentication       => "plain",
       :enable_starttls_auto => true  }
 #  config.action_mailer.default_url_options = { host: host, protocol: 'http' }
